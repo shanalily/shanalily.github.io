@@ -20,5 +20,8 @@
 # # Build settings
 # markdown: kramdown
 
+title: Shoshana Malfatto's Website
 name: Shoshana Malfatto
+email: shanalily@gmail.com
+github_username: shanalily
 markdown: kramdown

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shoshana Malfatto&#39;s Website</title>
-    <description></description>
+    <title>~Blog~</title>
+    <description>I&#39;m an undergraduate at RPI studying computer science. This blog is for absolutely anything.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Mar 2017 17:14:48 -0400</pubDate>
-    <lastBuildDate>Tue, 14 Mar 2017 17:14:48 -0400</lastBuildDate>
+    <pubDate>Tue, 14 Mar 2017 20:03:28 -0400</pubDate>
+    <lastBuildDate>Tue, 14 Mar 2017 20:03:28 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Tue, 14 Mar 2017 16:33:38 -0400</pubDate>
-        <link>/jekyll/update/2017/03/14/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/update/2017/03/14/welcome-to-jekyll.html</guid>
+        <link>/jekyll/update/2017/03/14/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">/jekyll/update/2017/03/14/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>

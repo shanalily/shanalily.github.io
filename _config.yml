@@ -20,8 +20,12 @@
 # # Build settings
 # markdown: kramdown
 
-title: Shoshana Malfatto's Website
+# layout: custom
+title: ~Blog~
 name: Shoshana Malfatto
 email: shanalily@gmail.com
-github_username: shanalily
+# github_username: shanalily
+description: I'm an undergraduate at RPI studying computer science. This blog is for absolutely anything.
+# google_analytics:
 markdown: kramdown
+permalink: pretty

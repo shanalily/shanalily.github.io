@@ -12,6 +12,7 @@
 }
 
 .site-title {
+    font-family: monospace;
     font-size: 30px;
     font-weight: 300;
     line-height: 56px;
@@ -21,7 +22,9 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        /*color: $grey-color-dark;*/
+        /*color: #082F73;*/
+        color: black;
     }
     &:hover {
         color: pink;
@@ -180,6 +183,7 @@
 }
 
 .post-list {
+    font-family: monospace;
     margin-left: 0;
     list-style: none;
 
@@ -208,6 +212,7 @@
 }
 
 .post-title {
+    font-family: monospace;
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
@@ -215,6 +220,22 @@
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+}
+
+#B {
+    color: green;
+}
+
+#L {
+    color: #44B1C2;
+}
+
+#O {
+    color: #082F73;
+}
+
+#G {
+    color: purple;
 }
 
 .post-content {

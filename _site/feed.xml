@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>~Blog~</title>
+    <title>~BLOG~</title>
     <description>I&#39;m an undergraduate at RPI studying computer science. This blog is for absolutely anything.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Mar 2017 20:15:09 -0400</pubDate>
-    <lastBuildDate>Tue, 14 Mar 2017 20:15:09 -0400</lastBuildDate>
+    <pubDate>Tue, 14 Mar 2017 21:16:31 -0400</pubDate>
+    <lastBuildDate>Tue, 14 Mar 2017 21:16:31 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>First Post</title>
+        <description>&lt;p&gt;I’m making this blog as an attempt to…&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Mar 2017 20:17:38 -0400</pubDate>
+        <link>/jekyll/update/2017/03/14/first-post/</link>
+        <guid isPermaLink="true">/jekyll/update/2017/03/14/first-post/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -36,17 +51,6 @@
         <category>jekyll</category>
         
         <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>First Post</title>
-        <description>
-</description>
-        <pubDate>Tue, 14 Mar 2017 00:00:00 -0400</pubDate>
-        <link>/2017/03/14/first-post/</link>
-        <guid isPermaLink="true">/2017/03/14/first-post/</guid>
-        
         
       </item>
     

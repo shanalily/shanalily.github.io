@@ -21,7 +21,8 @@
 # markdown: kramdown
 
 # layout: custom
-title: ~Blog~
+# title: ~<span id="B">B</span><span id="L">L</span><span id="O">O</span><span id="G">G</span>~
+title: ~BLOG~
 name: Shoshana Malfatto
 email: shanalily@gmail.com
 # github_username: shanalily
